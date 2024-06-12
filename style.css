@@ -1,0 +1,45 @@
+html{
+    background-color: black;
+}
+h1{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: bold;
+    font-size:30pt;
+    color:white;
+    text-align: center;
+    margin:0px;
+    margin-bottom:10pt;
+    text-transform: uppercase
+}
+div{
+    background-color: black;
+    margin-left: 25%;
+    width: 50%;
+}
+p{
+    text-align:center;
+    color:white;
+    font-family: Cambria, serif;
+    text-transform:uppercase;
+    margin: 
+
+}
+img{
+    width: 100%;
+    border: 5px solid skyblue;
+    
+}
+hr{
+    border-color:skyblue;
+    height:1pt;
+    background-color:skyblue;
+    margin:10px -10px 10px 0px;
+
+}
+br{
+    margin:0px;
+}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
